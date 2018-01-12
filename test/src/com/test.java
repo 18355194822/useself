@@ -3,7 +3,7 @@ package com;
 public class test {
 
 	public static void main(String[] args) {
-		
+		System.out.println("这是在本地添加的");
 		long l = 3333L;
 		int i = (int)l;
 		System.out.println(l);
