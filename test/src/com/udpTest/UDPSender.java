@@ -22,6 +22,5 @@ public class UDPSender {
 			}
 		}
 		socket.close();
-		System.out.println("===============");
 	}
 }
