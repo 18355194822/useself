@@ -10,6 +10,7 @@ public class test {
 		System.out.println(l);
 		System.out.println(i);
 		System.out.println("这是在远程添加的");
+		System.out.println("这是在远程添加的");
 	}
 
 }
