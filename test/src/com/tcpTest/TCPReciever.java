@@ -33,7 +33,6 @@ public class TCPReciever {
 				serverSocket.close();
 				socket.close();
 			} catch (Exception e1) {
-				
 			}
 		}finally {
 			try {
